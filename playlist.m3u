@@ -1,57 +1,60 @@
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
-https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cartoonnetwork.png" group-title="Cartoon Network(Arab)"
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 
-#EXTINF:-1 tvg id="827" tvg-logo"" group title"",MetaMedia(1)
-http://62.210.27.219:80/playlist?type=m3u&deviceMac=00:1A:79:F9:8F:58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/small/217.png" group-title="Boomerang(OPT 1)"
+http://109.236.92.216:9090/BOOMERANG/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg id="827" tvg-logo"" group title"",MetaMedia(2)
-http://tv.nousiptv.com:25462/get.php?username=Moreira&password=Moreira&type=m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/small/217.png" group-title="Boomerang(OPT 2)"
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera English (Opt-1) (QA)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbskids.org/halloween/images/KidsMoonLogo.png" group-title="PBS KIDS"
+https://live-cdn.pbskids.org/out/u/est.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera English (Opt-2) (QA)
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/250?cb=20180903211953" group-title="Disney XD(OPT 1)"
+https://194.204.46.137/live/eds/Disney_XD/HLS_encr/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (Opt-1) (KR)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/250?cb=20180903211953" group-title="Disney XD(OPT 2)"
+https://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (Opt-2) (KR)
-http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Disney Channel"
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-1) (GB)
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="Disney Junior(OPT 1)"
+https://content.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-2) (GB)
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="Disney Junior(opt 2)"
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/nicktoons-logo-1501.jpg" group-title="NickToons"
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-3) (GB)
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://ei.surfbrands.co/small/200/thumbnail/ANd9GcQUqPr9cxOzw2TRzUSa-zQ6BKo764SW7B0nF3xYaKweb0dcyfTCUA.jpg" group-title="Nick Jr"
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="24/7 WORLD NEWS",CGTN America (CN)
-http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="Nickelodeon"
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (Opt-1) (CN)
-http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6J9cJjd/apps-and-products-fox-news-png-logo-0-1.jpg" group-title="Fox News"
+https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/rewind-14400.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (Opt-2) (CN)
-http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ydPVbNw/pmcvariety-files-wordpress-com-msnbc-logo.jpg" group-title="MSNBC"
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (Opt-1) (SG)
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qy8FSsc/cnn-logo-white-on-red-1.jpg" group-title="CNN"
+https://1828529515.rsc.cdn77.org/NedqXJHc34k1sQJP5JpKiA==,1575681531/LS-ATL-54548-9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (Opt-2) (SG)
-http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDI1MjUwMTE4NjczNjEw/cbsn-logo_resized_bc.jpg" group-title="CNBC"
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="24/7 WORLD NEWS",CNBC World (US)
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-1) (US)
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3Q8MXk/ABC-News-Logo-610x343.jpg" group-title="ABC News"
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-2) (US)
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6XmSkJ0/1024px-HLN-TV-network-2017-logo-svg.jpg" group-title="HLN"
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-3) (US)
 http://persik.by/stream/2130/401056/10479.m3u8?fluxustv.m3u8
