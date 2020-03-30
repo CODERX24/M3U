@@ -23,7 +23,7 @@
                 <cenc:pssh>AAAAXXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAD0IARIgYWNjOTczNWRkMzA0NDMyNGEyMDFlMmVhNTA4ZWFhNDAaB3NsaW5ndHYiB05JQ0pSSEQqBVNEX0hE</cenc:pssh>
                 <ms:laurl licenseUrl="http://p-drmwv.movetv.com/widevine/proxy"/>
             </ContentProtection>
-            <SegmentTemplate timescale="1000" duration="2048" startNumber="17413" initialization="audio/$RepresentationID$/init.mp4" media="audio/$RepresentationID$/$Number%08x$.m4s" presentationTimeOffset="35656815"></SegmentTemplate>
+            <SegmentTemplate timescale="1000" duration="126227808" startNumber="17413" initialization="audio/$RepresentationID$/init.mp4" media="audio/$RepresentationID$/$Number%08x$.m4s" presentationTimeOffset="35656815"></SegmentTemplate>
             <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
             <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"></Role>
             <Representation id="stereo/192" audioSamplingRate="48000" bandwidth="196608" qualityRanking="0"></Representation>
