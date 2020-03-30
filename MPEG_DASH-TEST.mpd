@@ -42,7 +42,7 @@
             </ContentProtection>
             <Accessibility schemeIdUri="urn:scte:dash:cc:cea-608:2015" value="CC1=eng"></Accessibility>
             <Accessibility schemeIdUri="urn:scte:dash:cc:cea-708:2015" value="1=lang:eng"></Accessibility>
-            <SegmentTemplate timescale="1000" duration="2048" startNumber="17413" initialization="video/$RepresentationID$/init.mp4" media="video/$RepresentationID$/$Number%08x$.m4s" presentationTimeOffset="35656815"></SegmentTemplate>
+            <SegmentTemplate timescale="1000000000" duration="2000000000" startNumber="17413" initialization="video/$RepresentationID$/init.mp4" media="video/$RepresentationID$/$Number%08x$.m4s" presentationTimeOffset="35656815"></SegmentTemplate>
             <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"></Role>
             <Representation id="vid06" bandwidth="5632000" codecs="avc1.640028" width="1920" height="1080" frameRate="29970/1000" sar="1:1" qualityRanking="0"></Representation>
             <Representation id="vid05" bandwidth="4300800" codecs="avc1.640028" width="1280" height="720" frameRate="29970/1000" sar="1:1" qualityRanking="1"></Representation>
