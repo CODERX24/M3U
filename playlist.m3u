@@ -39,7 +39,7 @@ http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/rewind-14400.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ydPVbNw/pmcvariety-files-wordpress-com-msnbc-logo.jpg" group-title="MSNBC"
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/chunklist_b2500000.m3u8
+https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qy8FSsc/cnn-logo-white-on-red-1.jpg" group-title="CNN"
 https://1828529515.rsc.cdn77.org/NedqXJHc34k1sQJP5JpKiA==,1575681531/LS-ATL-54548-9/index.m3u8
@@ -357,8 +357,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8?fluxustv.m3u8
 https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Opt-1)
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
+https://2d01.janjua.pw:8088/live/fox_newsstreamfare/playlist.m3u8?id=88933&pk=4bf1c992137081ff50bb6529f165f3eb030ee1faa2af73cc5037edc64f2bb0ff
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Opt-2)
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8?fluxustv.m3u8
 
