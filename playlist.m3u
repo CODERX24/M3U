@@ -23,7 +23,7 @@ https://2d01.janjua.pw:8088/live/fox_newsstreamfare/playlist.m3u8?id=88933&pk=4b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ydPVbNw/pmcvariety-files-wordpress-com-msnbc-logo.jpg" group-title="News",MSNBC
 https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDI1MjUwMTE4NjczNjEw/cbsn-logo_resized_bc.jpg" group-title="News",CBSN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="News",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="News",CNBC World (US)
