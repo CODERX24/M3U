@@ -8,6 +8,9 @@ http://78.110.169.226:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/small/217.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="LifeStyle",Travel Channel(opt-1)
+http://78.110.169.226:8000/play/a05i
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbskids.org/halloween/images/KidsMoonLogo.png" group-title="Kids",PBS KIDS
 https://live-cdn.pbskids.org/out/u/est.m3u8
 
@@ -41,8 +44,8 @@ http://95.86.32.7:999/food
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LifeStyle",Food Network(opt-2)
 http://78.110.169.226:8000/play/a05l
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LifeStyle",Food Network(opt-3)
+http://78.110.169.226:8000/play/a05m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 English (Opt-1) (FR)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
