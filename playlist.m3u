@@ -26,6 +26,9 @@ https://2d01.janjua.pw:8088/live/fox_newsstreamfare/playlist.m3u8?id=88933&pk=4b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6J9cJjd/apps-and-products-fox-news-png-logo-0-1.jpg" group-title="News",Fox News(opt-2)
 https://2d04.janjua.pw:8088/live/fox_newsstreamfare/playlist.m3u8?id=88933&wowzasessionid=3389567962&pk=4bf1c992137081ff50bb6529f165f3eb030ee1faa2af73cc5037edc64f2bb0ff
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6J9cJjd/apps-and-products-fox-news-png-logo-0-1.jpg" group-title="News",Fox News(opt-3)
+http://play.usnewson.com/stream/foxnews.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ydPVbNw/pmcvariety-files-wordpress-com-msnbc-logo.jpg" group-title="News",MSNBC
 https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
 
